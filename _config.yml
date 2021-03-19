@@ -22,7 +22,7 @@ your-name                                 : John Doe
 your-link                                 : https://google.com                     
 your-city                                 : New York                            
 email-address                             : "mailto:john.doe@gmail.com"                                   
-envelop-icon                              : envelope
+envelope-icon                             : envelope
 twitter-username                          : https://twitter.com/john.doe
 twitter-icon                              : twitter
 github-username                           : https://github.com/john.doe
