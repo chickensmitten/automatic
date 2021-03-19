@@ -1,6 +1,6 @@
 #page title
-url: 'https://chickensmitten.github.io'
-baseurl: '/automatic'
+url                                       : 'https://chickensmitten.github.io'
+baseurl                                   : '/automatic'
 page-title                                :                                         
 
 # App Info
