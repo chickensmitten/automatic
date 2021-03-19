@@ -2,33 +2,33 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-$body-color: {{ site.body_background_color }};
+$body-color: {{ site.body-background-color }};
 
-$header-image: "{{ site.cover_image }}";
-$device-color: "assets/{{ site.device_color }}.png";
+$header-image: "{{ site.cover-image }}";
+$device-color: "assets/{{ site.device-color }}.png";
 
-$accent-color: {{ site.link_color }};
+$accent-color: {{ site.link-color }};
 
-$header-title-color: {{ site.topbar_title_color }};
-$app-title-color: {{ site.app_title_color }};
-$app-price-color: {{ site.app_price_color }};
-$app-description-color: {{ site.app_description_color }};
+$header-title-color: {{ site.topbar-title-color }};
+$app-title-color: {{ site.app-title-color }};
+$app-price-color: {{ site.app-price-color }};
+$app-description-color: {{ site.app-description-color }};
 
-$feature-title-color: {{ site.feature_title_color }};
-$feature-text-color: {{ site.feature_text_color }};
-$footer-text-color: {{ site.footer_text_color }};
+$feature-title-color: {{ site.feature-title-color }};
+$feature-text-color: {{ site.feature-text-color }};
+$footer-text-color: {{ site.footer-text-color }};
 
-$header_color: {{ site.topbar_color }};
-$header_transparency: {{ site.topbar_transparency }};
+$header_color: {{ site.topbar-color }};
+$header_transparency: {{ site.topbar-transparency }};
 
-$image-overlay-color: {{ site.cover_overlay_color }};
-$image-overlay-transparency: {{ site.cover_overlay_transparency }};
+$image-overlay-color: {{ site.cover-overlay-color }};
+$image-overlay-transparency: {{ site.cover-overlay-transparency }};
 
-$feature-icons-foreground-color: {{ site.feature_icons_foreground_color }};
-$feature-icons-background-color: {{ site.feature_icons_background_color }};
+$feature-icons-foreground-color: {{ site.feature-icons-foreground-color }};
+$feature-icons-background-color: {{ site.feature-icons-background-color }};
 
-$social-icons-foreground-color: {{ site.social_icons_foreground_color }};
-$social-icons-background-color: {{ site.social_icons_background_color }};
+$social-icons-foreground-color: {{ site.social-icons-foreground-color }};
+$social-icons-background-color: {{ site.social-icons-background-color }};
 
 @import 
     "base",
