@@ -80,7 +80,7 @@ cover-image                               : "assets/headerimage.png"
 cover-overlay-color                       : "#363b3d"
 cover-overlay-transparency                : 0.8
 
-device-color                              : "assets/black.png"                              
+device-color                              : "black"                              
 
 body-background-color                     : "#ffffff"
 
