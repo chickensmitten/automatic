@@ -4,8 +4,8 @@
 
 $body-color: {{ site.body-background-color }};
 
-$header-image: "{{ site.cover-image }}";
-$device-color: "{{ site.device-color }}";
+$header-image: {{ site.cover-image }};
+$device-color: {{ site.device-color }};
 
 $accent-color: {{ site.link-color }};
 
