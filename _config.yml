@@ -1,8 +1,8 @@
 #page title
-page-title                                :                                         
+page-title                                : ""                                        
 
 # App Info
-ios-app-id                                :                                
+ios-app-id                                : ""                               
 
 appstore-link                             : https://apps.apple.com/us/app/itunes-remote/id284417350                                         
 playstore-link                            : https://play.google.com/store/apps/details?id=air.au.com.metro.DumbWaysToDie2
