@@ -73,12 +73,12 @@ features                                  :
 
 # Theme Settings
 topbar-color                              : "#000000"
-topbar-transparency                       : 0.1
+topbar-transparency                       : "0.1"
 topbar-title-color                        : "#ffffff"
 
 cover-image                               : assets/headerimage.png             
 cover-overlay-color                       : "#363b3d"
-cover-overlay-transparency                : 0.8
+cover-overlay-transparency                : "0.8"
 
 device-color                              : black                              
 
