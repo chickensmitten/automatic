@@ -119,7 +119,7 @@ footer-text-color                         : "#666666"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # You might prefer to minify using :compressed
+  style: compressed # You might prefer to minify using :compressed
 
 # Exclude these files from your production _site
 exclude:
