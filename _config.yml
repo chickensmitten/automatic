@@ -31,7 +31,7 @@ github-icon                               : github
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  :
+features-list                             :
 
   - title                                 : GitHub Pages Jekyll Theme
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
