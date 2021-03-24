@@ -1,33 +1,14 @@
 <footer>
 	<p class="footerText">{{ site.footer-description }}</p>
 	<div class="footerIcons">
-
-		{% if site.twitter-username %}
-			<a href="{{ site.twitter-username }}">
+          {% for contact in site.contact-list %}
+			<a href="{{ contact.url }}">
 				<span class="fa-stack fa-1x">
 					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-{{ site.twitter-icon }} fa-stack-1x"></i>
+					<i class="socialIconTop fab fa-{{ contact.icon }} fa-stack-1x"></i>
 				</span>
-			</a>
-		{% endif %}
-
-		{% if site.github-username %}
-			<a href="{{ site.github-username }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-{{ site.github-icon }} fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.email-address %}
-			<a href="{{ site.email-address }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fas fa-{{ site.envelope-icon }} fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
+			</a>	
+          {% endfor %}
 
 	</div>
 	<div class="footerLinks">
