@@ -1,7 +1,5 @@
 <footer>
-	{% if site.your-name %}
-	<p class="footerText">Made by {% if site.your-link %}<a href="{{ site.your-link }}">{% endif %}{{ site.your-name }}{% if site.your-link %}</a>{% endif %}{% if site.your-city %} in {{ site.your-city }}{% endif %}</p>
-	{% endif %}
+	<p class="footerText">{{ site.footer-description }}</p>
 	<div class="footerIcons">
 
 		{% if site.twitter-username %}
