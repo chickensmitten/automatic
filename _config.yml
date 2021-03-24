@@ -57,7 +57,7 @@ features-list                             :
 
   - title                                 : Smart App Banner
     description                           : Display a smart app banner on iOS devices.
-    fontawesome-icon-name                 : circle-arrow-down
+    fontawesome-icon-name                 : arrow-down
 
   - title                                 : Social Links
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
