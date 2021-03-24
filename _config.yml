@@ -18,9 +18,7 @@ app-description                           : Write a short tagline for your app.
 enable-smart-app-banner                   : true                                    
 
 # Information About Yourself
-your-name                                 : John Doe                           
-your-link                                 : https://google.com                     
-your-city                                 : New York                            
+footer-description                          : Made by John Doe in New York
 email-address                             : "mailto:john.doe@gmail.com"                                   
 envelope-icon                             : envelope
 twitter-username                          : https://twitter.com/john.doe
