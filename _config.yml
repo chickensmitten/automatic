@@ -67,7 +67,7 @@ features-list                             :
 
   - title                                 : FontAwesome Support
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome-icon-name                 : info-circle
+    fontawesome-icon-name                 : info
 
 
 
