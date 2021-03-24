@@ -19,13 +19,13 @@ enable-smart-app-banner                   : true
 
 # Information About Yourself
 footer-description                          : Made by John Doe in New York
-email-address                             : "mailto:john.doe@gmail.com"                                   
-envelope-icon                             : envelope
-twitter-username                          : https://twitter.com/john.doe
-twitter-icon                              : twitter
-github-username                           : https://github.com/john.doe
-github-icon                               : github
-
+contact-list:
+- url: "mailto:john.doe@gmail.com"
+  icon: envelope
+- url: https://twitter.com/john.doe
+  icon: twitter
+- url: https://github.com/john.doe
+  icon: github
 
 
 # Feature List                            Edit, add or remove features to be presented.
